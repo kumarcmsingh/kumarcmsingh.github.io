@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Chandramohan Kumar
 
-You can use the [editor on GitHub](https://github.com/kumarcmsingh/kumarcmsingh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Work Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kumarcmsingh/kumarcmsingh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 21North Europe Assistance
+FULL STACK DEVELOPER
+- Designed and developed a Micro‐service using Flask framework in Python for Ontime‐performance report, that improved productivity and reduced the paper work by 97%.
+- Integrated the Payment gateway RazorpayX to our systems that made easy and one click payment which reduced the time by 96%,reduced manual work by 99.9% and made smoother experience.
+- Created the attendance reporting for our organization by which management team manage 20K+ of employee and trace the their current location.
+- Translated the Web‐App in 8 languages to provide a localized experience for the users.
+- Enhanced the system by converting 50+ old code written in stored procedures(My‐SQLStored Procedures) to REST API using Flask framework in Python.
+- Adjusted design parameters to boost performance by 60% and incorporate new features.
+- Delivered 15+ performance‐driven and user‐centric User Stories that met all business requirements.
+• Designed, modified and debugged programs 100+ issues.
+• Reviewed code, debugged problems and corrected 40+ issues.
+• Contributed ideas and suggestions in teammeetings and delivered updates on deadlines, designs and enhancements.
+• Used code versioning tools like Git and Bit‐bucket.
+• Worked with cross‐functional team of ranging from entry‐level developers to directors.
+• Synced the Data b/w Micro‐Service using AWS SNS and SQS.
