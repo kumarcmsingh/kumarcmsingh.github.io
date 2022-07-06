@@ -11,9 +11,9 @@ FULL STACK DEVELOPER
 - Enhanced the system by converting 50+ old code written in stored procedures(My‐SQLStored Procedures) to REST API using Flask framework in Python.
 - Adjusted design parameters to boost performance by 60% and incorporate new features.
 - Delivered 15+ performance‐driven and user‐centric User Stories that met all business requirements.
-• Designed, modified and debugged programs 100+ issues.
-• Reviewed code, debugged problems and corrected 40+ issues.
-• Contributed ideas and suggestions in teammeetings and delivered updates on deadlines, designs and enhancements.
-• Used code versioning tools like Git and Bit‐bucket.
-• Worked with cross‐functional team of ranging from entry‐level developers to directors.
-• Synced the Data b/w Micro‐Service using AWS SNS and SQS.
+- Designed, modified and debugged programs 100+ issues.
+- Reviewed code, debugged problems and corrected 40+ issues.
+- Contributed ideas and suggestions in teammeetings and delivered updates on deadlines, designs and enhancements.
+- Used code versioning tools like Git and Bit‐bucket.
+- Worked with cross‐functional team of ranging from entry‐level developers to directors.
+- Synced the Data b/w Micro‐Service using AWS SNS and SQS.
