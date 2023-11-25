@@ -104,8 +104,8 @@ ___
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
   <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-        I. Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.</li>
-        II. Resolved the most TSI in the last 3 months.</li>
+        I. Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.<br>
+        II. Resolved the most TSI in the last 3 months. <br>
   </ul>
 </div>
 
@@ -119,8 +119,8 @@ ___
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
   <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-        I. For timely completion of the challenging task.</li>
-        II. For your good work on pre and post-assignment US.</li>
+        I. For timely completion of the challenging task.<br>
+        II. For your good work on pre and post-assignment US.<br>
   </ul>
 </div>
 
