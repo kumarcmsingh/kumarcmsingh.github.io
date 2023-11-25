@@ -49,7 +49,7 @@ I am Chandramohan Kumar, a seasoned Full Stack Developer at Zino Technologies Pr
 - **Misc:** Airflow, Cron Jobs, Git, Jira, Confluence, Typesense
 
 ## 🌐 Connect with Me
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/cm-singh/) | [GitHub](#)
 
 This portfolio showcases my journey, skills, and commitment to delivering impactful software solutions.
 
