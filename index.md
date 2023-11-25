@@ -10,23 +10,19 @@ I am Chandramohan Kumar, a seasoned Full Stack Developer at Zino Technologies Pr
 
 ### Back End Developer
 **Zino Technologies Private Limited | Jul 2023 - Present | Bangalore, India**
-## Development and Maintenance
+
 - Developed and maintained backend systems using Golang and the Fiber framework for RESTful APIs.
 - Worked on Typesense server to store and retrieve information efficiently.
 - Optimized the existing codebase for improved efficiency and maintainability.
 
-## Collaboration and Teamwork
 - Collaborated with a team of developers to design and implement scalable and performant solutions.
 - Conducted thorough code reviews to ensure adherence to best practices and coding standards.
 - Worked closely with front-end developers to integrate backend services with user interfaces.
 
-## Troubleshooting and Debugging
 - Troubleshooted and debugged complex issues to deliver reliable and stable applications.
 
-## Testing Strategies
 - Implemented robust testing strategies to ensure high-quality software deliverables.
 
-## Continuous Learning and Innovation
 - Stayed updated with the latest industry trends and technologies to propose innovative solutions.
 
 
@@ -70,15 +66,30 @@ I am Chandramohan Kumar, a seasoned Full Stack Developer at Zino Technologies Pr
 
 ### Technical Assistant (Internship)
 **Dvara Solutions | Jan 2020 - Jun 2020 | Bangalore, India**
-- Contributed to Angular and Java development, gaining hands-on experience in both frontend and backend solutions.
+
+- Developed responsive user interfaces during the internship.
+- Implemented state management using Redux or Context API in ReactJS.
+- Integrated RESTful APIs and utilized React Router for client-side routing.
+
+- Utilized Python's object-oriented principles and frameworks for application development.
+- Designed and implemented database schemas in MySQL.
+- Created optimized SQL queries and ensured data integrity through normalization techniques.
+
+- Collaborated with backend developers to integrate databases with applications.
+- Actively contributed to projects, gaining practical experience, and enhancing skills in ReactJS, Python, and MySQL.
 
 ## 🏆 Achievements
 
-- **ABCD On Spot Award | Zino Technologies Private Limited**
-  - Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.
+**ABCD On Spot Award | 21North Europ Assistance**
+- Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.
+- Resolved the most TSI in the last 3 months.
 
-- **ABCD On Spot Award | 21North Europ Assistance**
-  - Acknowledged for commitment in addressing the Ambassador return ticket issue.
+**ABCD On Spot Award | 21North Europ Assistance**
+- For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.
+
+**ABCD On Spot Award | 21North Europ Assistance**
+- For timely completion of the challenging task.
+- For your good work on pre and post-assignment US.
 
 ## 🎓 Education
 
