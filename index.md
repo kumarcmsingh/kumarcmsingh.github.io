@@ -23,7 +23,7 @@ ___
   </p>
 
   <p style="font-size: 16px;">
-    Proficient in a variety of technologies including Python, JavaScript, C, Golang, Flask, React, Docker, Git, AWS, MySQL, HTML, and CSS, I actively contribute innovative solutions, showcasing a creative approach to problem-solving. With my diverse experience, I am dedicated to delivering high-quality software solutions aligned with business requirements.
+    Proficient in a variety of technologies including Golang, Python, Flask, React, JavaScript, C, Docker, Git, AWS, MySQL, HTML, and CSS, I actively contribute innovative solutions, showcasing a creative approach to problem-solving. With my diverse experience, I am dedicated to delivering high-quality software solutions aligned with business requirements.
   </p>
 
 </div>
@@ -45,7 +45,6 @@ ___
     <li>Worked closely with front-end developers to integrate backend services with user interfaces.</li>
     <li>Troubleshooted and debugged complex issues to deliver reliable and stable applications.</li>
     <li>Implemented robust testing strategies to ensure high-quality software deliverables.</li>
-    <li>Stayed updated with the latest industry trends and technologies to propose innovative solutions.</li>
   </ul>
 </div>
 
@@ -104,23 +103,23 @@ ___
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
   <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-        I. Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.<br>
-        II. Resolved the most TSI in the last 3 months. <br>
+    I. Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.<br>
+    II. Resolved the most TSI in the last 3 months. <br>
   </ul>
 </div>
 
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
     <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-        I. For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.</li>
+    I. For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.
   </ul>
 </div>
 
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
   <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-        I. For timely completion of the challenging task.<br>
-        II. For your good work on pre and post-assignment US.<br>
+    I. For timely completion of the challenging task.<br>
+    II. For your good work on pre and post-assignment US.<br>
   </ul>
 </div>
 
@@ -131,15 +130,15 @@ ___
 <ul style="list-style-type: none; padding: 0; margin: 0; font-family: 'Arial', sans-serif;">
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    🚀 <strong>Languages:</strong> GoLang, Python, JavaScript, C
+    🚀 <strong>Languages:</strong> Golang (GO), Python 3.x, JavaScript, C
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    🛠️ <strong>Frameworks:</strong> Fiber, Flask, React
+    🛠️ <strong>Frameworks:</strong> Fiber, Flask, FastAPI, ReactJS
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    🧰 <strong>Tools:</strong> Docker, Git, AWS
+    🧰 <strong>Tools:</strong> Git, Bitbucket, Github, Jira, Confluence
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
@@ -147,7 +146,7 @@ ___
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    ☁️ <strong>Cloud Computing:</strong> AWS
+    ☁️ <strong>Cloud Computing:</strong> AWS (Medium), GCP (Basics)
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
@@ -163,7 +162,7 @@ ___
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    🌐 <strong>Misc:</strong> Airflow, Cron Jobs, Git, Jira, Confluence, Typesense
+    🌐 <strong>Misc:</strong> Airflow, Cron Jobs, Typesense
   </li>
 
 </ul>
