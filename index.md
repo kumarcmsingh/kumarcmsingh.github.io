@@ -3,7 +3,7 @@ layout: default
 title: Chandramohan Kumar (CM)
 ---
 
-[About Me](#about-me) | [Work Experience](#work-experience) | [Achievements](#achievements) | [Education](#education) | [Skills](#skills) | [Personal Details](#personal-details) | [Connect with Me](#connect-with-me)
+[About Me](#👨‍💻 about-me) | [Work Experience](# 💼 work-experience) | [Achievements](#achievements) | [Education](#education) | [Skills](#skills) | [Personal Details](#personal-details) | [Connect with Me](#connect-with-me)
 
 
 ## 👨‍💻 About Me
@@ -49,7 +49,7 @@ title: Chandramohan Kumar (CM)
 </div>
 
 
-## Full-stack Developer
+### Full-stack Developer
 **21North Europ Assistance | Oct 2020 - Jul 2023 | Bangalore, India**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
 
