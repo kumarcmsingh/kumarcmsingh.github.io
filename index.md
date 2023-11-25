@@ -1,12 +1,22 @@
 ---
 layout: default
-title: Chandramohan Kumar (Backend Developer)
+title: Chandramohan Kumar
 ---
 
-# Welcome to My Portfolio
-
 ## 👨‍💻 About Me
-I am Chandramohan Kumar, a seasoned Full Stack Developer at Zino Technologies Private Limited. Armed with a Master's degree in Computer Applications from RV College of Engineering, I specialize in Golang and the Fiber framework to create robust RESTful APIs. My professional journey includes significant accomplishments such as reducing paperwork by 97% at 21North Europe Assistance, integrating RazorpayX, and developing a Network Intrusion Detection System with a 96% success rate.
+<div style="text-align: justify"> I am Chandramohan Kumar, a Full Stack Developer currently working at Zino Technologies Private Limited in Bangalore since July 2023. With a Master's degree in Computer Applications from RV College of Engineering and a CGPA of 7.73, I bring a strong educational background to my role.
+
+In my current position, I contribute as a Back End Developer, specializing in Golang and the Fiber framework to develop and maintain robust RESTful APIs. At Zino Technologies, I collaborate with a talented team of developers to design and implement scalable solutions, optimizing existing codebases for enhanced efficiency and maintainability. My responsibilities include conducting thorough code reviews, troubleshooting complex issues, and ensuring the seamless integration of backend services with user interfaces.
+
+Prior to Zino Technologies, I gained valuable experience as a Full Stack Developer at 21North Europe Assistance. There, I designed and developed a microservice using the Flask framework in Python for an Ontime-performance report, resulting in a 97% reduction in paperwork. I integrated the RazorpayX payment gateway, streamlining payments and reducing processing time by 96%. Additionally, I created an attendance reporting system for efficient management of 20K+ employees.
+
+One of my notable achievements is the development of a Network Intrusion Detection System, using machine learning, socket programming, and Python. This system detects and mitigates malicious activities within a computer network, enhancing security by 96%.
+
+My technical skills encompass a range of programming languages, including Python, JavaScript, C, and Golang. I am proficient in using development frameworks such as Flask and React, along with expertise in Docker, Git, AWS, MySQL, HTML, and CSS.
+
+Throughout my career, I actively contribute ideas and suggestions in team meetings, ensuring timely updates on deadlines, designs, and enhancements. I am committed to continuous learning, staying abreast of the latest industry trends and technologies to propose innovative solutions.
+
+Overall, my diverse experience, coupled with a creative flair for solving complex problems, positions me as a skilled Full Stack Developer capable of delivering high-quality software solutions that align with business requirements. </div>
 
 ## 💼 Work Experience
 
