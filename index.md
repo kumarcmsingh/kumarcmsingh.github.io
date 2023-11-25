@@ -111,7 +111,8 @@ ___
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
     <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-    I. For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.
+    I. For an extraordinary commitment to address the Ambassador return ticket issue. <br> 
+    II. This helped ambassadors use a critical feature seamlessly. <br>
   </ul>
 </div>
 
