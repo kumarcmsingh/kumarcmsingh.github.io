@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chandramohan Kumar
+title: Chandramohan Kumar (CM)
 ---
 
 ## 👨‍💻 About Me
@@ -97,35 +97,94 @@ title: Chandramohan Kumar
 ## 🏆 Achievements
 
 **ABCD On Spot Award | 21North Europ Assistance**
-- Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.
-- Resolved the most TSI in the last 3 months.
+<div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
+  <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
+    <li>Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.</li>
+    <li> Resolved the most TSI in the last 3 months.</li>
+  </ul>
+</div>
 
 **ABCD On Spot Award | 21North Europ Assistance**
-- For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.
+<div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
+    <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
+        <li>For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.</li>
+  </ul>
+</div>
 
 **ABCD On Spot Award | 21North Europ Assistance**
-- For timely completion of the challenging task.
-- For your good work on pre and post-assignment US.
+<div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
+  <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
+    <li> For timely completion of the challenging task.</li>
+    <li> For your good work on pre and post-assignment US.</li>
+  </ul>
+</div>
 
 ## 🎓 Education
 **Master's in Computer Applications | RV College of Engineering | CGPA: 7.73**
 
 ## 💻 Skills
-- **Languages:** GoLang, Python, JavaScript, C
-- **Frameworks:** Fiber, Flask, React
-- **Tools:** Docker, Git, AWS
-- **Databases:** MongoDB, MySQL, Influxdb
-- **Cloud Computing:** AWS
-- **CI/CD:** Jenkins
-- **Monitoring:** CloudWatch
-- **Container/Orchestration Tools:** Docker, Docker Compose, Kubernetes
-- **Misc:** Airflow, Cron Jobs, Git, Jira, Confluence, Typesense
+<ul style="list-style-type: none; padding: 0; margin: 0; font-family: 'Arial', sans-serif;">
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Languages:</strong> GoLang, Python, JavaScript, C
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Frameworks:</strong> Fiber, Flask, React
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Tools:</strong> Docker, Git, AWS
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Databases:</strong> MongoDB, MySQL, Influxdb
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Cloud Computing:</strong> AWS
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>CI/CD:</strong> Jenkins
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Monitoring:</strong> CloudWatch
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Container/Orchestration Tools:</strong> Docker, Docker Compose, Kubernetes
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Misc:</strong> Airflow, Cron Jobs, Git, Jira, Confluence, Typesense
+  </li>
+
+</ul>
+
 
 ## PERSONAL DETAILS
-- **Date of Birth:** 2nd Feb 1996
-- **Current Location:** Bengaluru
-- **Passport:** Indian Passport
-- **Languages Known:** English, Hindi
+<ul style="list-style-type: none; padding: 0; margin: 0; font-family: 'Arial', sans-serif;">
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Date of Birth:</strong> 2nd Feb 1996
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Current Location:</strong> Bengaluru
+  </li>
+
+  <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <strong>Passport:</strong> Indian Passport
+  </li>
+
+  <li style="margin-bottom: 10px; padding-bottom: 10px;">
+    <strong>Languages Known:</strong> English, Hindi
+  </li>
+
+</ul>
+
 
 
 ## 🌐 Connect with Me
