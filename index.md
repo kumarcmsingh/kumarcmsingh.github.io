@@ -26,6 +26,7 @@ title: Chandramohan Kumar (CM)
 
 
 ## 💼 Work Experience
+[Back End Developer](#back-end-developer) | [Full-stack Developer](#full-stack-developer) | [Technical Assistant (Internship)](#technical-assistant-internship)
 
 ### Back End Developer
 **Zino Technologies Private Limited | Jul 2023 - Present | Bangalore, India**
