@@ -194,5 +194,5 @@ ___
 
 ## 🌐 Connect with Me
 - Mobile/WhatsApp: [+91 7004094952](https://wa.me/917004094952)
-- [LinkedIn](https://www.linkedin.com/in/cm-singh/)
-- [Email](mailto:kumarcmsingh@gmail.com)
+- Email [kumarcmsingh@gmail.com](mailto:kumarcmsingh@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cm-singh/)
