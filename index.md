@@ -3,7 +3,7 @@ layout: default
 title: Chandramohan Kumar (CM)
 ---
 
-***
+___
 [👨‍💻 About Me](#-about-me) | [💼 Work Experience](#-work-experience) | [🏆 Achievements](#-achievements) | [🎓 Education](#-education) | [💻 Skills](#-skills) | [👤 Personal Details](#-personal-details) | [🌐 Connect with Me](#-connect-with-me)
 
 
@@ -11,7 +11,7 @@ title: Chandramohan Kumar (CM)
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
 
   <p style="font-size: 16px;">
-    Hi, I'm Chandramohan Kumar, a passionate Full Stack Developer based in Bangalore. I've been contributing my skills to Zino Technologies Private Limited since July 2023. Holding a Master's degree in Computer Applications from RV College of Engineering with a CGPA of 7.73, I bring a robust educational background to my role.
+    Hi, I'm Chandramohan Kumar, a passionate Backend Developer based in Bangalore. I've been contributing my skills to Zino Technologies Private Limited since July 2023. Holding a Master's degree in Computer Applications from RV College of Engineering with a CGPA of 7.73, I bring a robust educational background to my role.
   </p>
 
   <p style="font-size: 16px;">
@@ -195,4 +195,4 @@ title: Chandramohan Kumar (CM)
 ## 🌐 Connect with Me
 - Mobile/WhatsApp: [+91 7004094952](https://wa.me/917004094952)
 - [LinkedIn](https://www.linkedin.com/in/cm-singh/)
-- [Email Connect](mailto:kumarcmsingh@gmail.com)
+- [Email](mailto:kumarcmsingh@gmail.com)
