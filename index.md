@@ -1,7 +1,3 @@
-# Chandramohan Kumar - Backend Developer
-
-## 🚀 Headline
-**Back-End Expert | Full Stack Developer | Golang | Fiber | Python3 | ReactJS | LLD & HLD | MySQL | NoSQL | Microservices | Docker | Kubernetes | CI/CD | Problem-Solver | Agile | Scrum**
 
 ## 👨‍💻 About Me
 I am Chandramohan Kumar, a seasoned Full Stack Developer at Zino Technologies Private Limited. Armed with a Master's degree in Computer Applications from RV College of Engineering, I specialize in Golang and the Fiber framework to create robust RESTful APIs. My professional journey includes significant accomplishments such as reducing paperwork by 97% at 21North Europe Assistance, integrating RazorpayX, and developing a Network Intrusion Detection System with a 96% success rate.

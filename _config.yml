@@ -1,3 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Chandramohan Kumar (Backend Developer)
+description: Back-End Expert | Full Stack Developer | Golang | Fiber | Python3 | ReactJS | LLD & HLD | MySQL | NoSQL | Microservices | Docker | Kubernetes | CI/CD | Problem-Solver | Agile | Scrum
+theme: jekyll-theme-cayman
+google_analytics: true
