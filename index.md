@@ -93,7 +93,7 @@ I am Chandramohan Kumar, a seasoned Full Stack Developer at Zino Technologies Pr
 
 ## 🎓 Education
 
-- **Master's in Computer Applications | RV College of Engineering | CGPA: 7.73**
+**Master's in Computer Applications | RV College of Engineering | CGPA: 7.73**
 
 ## 💻 Skills
 - **Languages:** GoLang, Python, JavaScript, C
