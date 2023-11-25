@@ -29,8 +29,9 @@ title: Chandramohan Kumar
 
 ### Back End Developer
 **Zino Technologies Private Limited | Jul 2023 - Present | Bangalore, India**
-<div style="text-align: justify">
-  <ul>
+<div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
+
+  <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
     <li>Developed and maintained backend systems using Golang and the Fiber framework for RESTful APIs.</li>
     <li>Worked on Typesense server to store and retrieve information efficiently.</li>
     <li>Optimized the existing codebase for improved efficiency and maintainability.</li>
@@ -46,8 +47,9 @@ title: Chandramohan Kumar
 
 ## Full-stack Developer
 **21North Europ Assistance | Oct 2020 - Jul 2023 | Bangalore, India**
-<div style="text-align: justify">
-  <ul>
+<div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
+
+  <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
     <li>Developed and maintained high-performance REST APIs using Python 3.x in Flask, FastAPI, and Django Rest Framework.</li>
     <li>Achieved a significant 40% reduction in API response time through advanced optimization techniques, leading to improved system performance.</li>
     <li>Led the successful conversion of stored procedures to Python, eliminating dependencies and reducing response time by an impressive 35%.</li>
@@ -77,8 +79,9 @@ title: Chandramohan Kumar
 
 ### Technical Assistant (Internship)
 **Dvara Solutions | Jan 2020 - Jun 2020 | Bangalore, India**
-<div style="text-align: justify">
-  <ul>
+<div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
+
+  <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
     <li>Developed responsive user interfaces during the internship.</li>
     <li>Implemented state management using Redux or Context API in ReactJS.</li>
     <li>Integrated RESTful APIs and utilized React Router for client-side routing.</li>
