@@ -104,23 +104,23 @@ ___
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
   <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-    <li>Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.</li>
-    <li> Resolved the most TSI in the last 3 months.</li>
+        I. Exceptional performance, including resolving the most TSI and closing 139 TSI tickets.</li>
+        II. Resolved the most TSI in the last 3 months.</li>
   </ul>
 </div>
 
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
     <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-        <li>For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.</li>
+        I. For an extraordinary commitment to address the Ambassador return ticket issue. This has helped ambassadors use a critical feature seamlessly.</li>
   </ul>
 </div>
 
 **ABCD On Spot Award | 21North Europ Assistance**
 <div style="text-align: justify; font-family: 'Arial', sans-serif; line-height: 1.6; margin-bottom: 20px;">
   <ul style="list-style-type: disc; margin-left: 20px; font-size: 16px;">
-    <li> For timely completion of the challenging task.</li>
-    <li> For your good work on pre and post-assignment US.</li>
+        I. For timely completion of the challenging task.</li>
+        II. For your good work on pre and post-assignment US.</li>
   </ul>
 </div>
 
@@ -131,39 +131,39 @@ ___
 <ul style="list-style-type: none; padding: 0; margin: 0; font-family: 'Arial', sans-serif;">
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Languages:</strong> GoLang, Python, JavaScript, C
+    🚀 <strong>Languages:</strong> GoLang, Python, JavaScript, C
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Frameworks:</strong> Fiber, Flask, React
+    🛠️ <strong>Frameworks:</strong> Fiber, Flask, React
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Tools:</strong> Docker, Git, AWS
+    🧰 <strong>Tools:</strong> Docker, Git, AWS
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Databases:</strong> MongoDB, MySQL, Influxdb
+    🛢️ <strong>Databases:</strong> MongoDB, MySQL, Influxdb
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Cloud Computing:</strong> AWS
+    ☁️ <strong>Cloud Computing:</strong> AWS
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>CI/CD:</strong> Jenkins
+    🚀 <strong>CI/CD:</strong> Jenkins
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Monitoring:</strong> CloudWatch
+    📊 <strong>Monitoring:</strong> CloudWatch
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Container/Orchestration Tools:</strong> Docker, Docker Compose, Kubernetes
+    🐳 <strong>Container/Orchestration Tools:</strong> Docker, Docker Compose, Kubernetes
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Misc:</strong> Airflow, Cron Jobs, Git, Jira, Confluence, Typesense
+    🌐 <strong>Misc:</strong> Airflow, Cron Jobs, Git, Jira, Confluence, Typesense
   </li>
 
 </ul>
@@ -173,22 +173,23 @@ ___
 <ul style="list-style-type: none; padding: 0; margin: 0; font-family: 'Arial', sans-serif;">
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Date of Birth:</strong> 2nd Feb 1996
+    🎂 <strong>Date of Birth:</strong> 2nd Feb 1996
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Current Location:</strong> Bengaluru
+    📍 <strong>Current Location:</strong> Bengaluru
   </li>
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <strong>Passport:</strong> Indian Passport
+    📅 <strong>Passport:</strong> Indian Passport
   </li>
 
   <li style="margin-bottom: 10px; padding-bottom: 10px;">
-    <strong>Languages Known:</strong> English, Hindi
+    🌐 <strong>Languages Known:</strong> English, Hindi
   </li>
 
 </ul>
+
 
 
 
