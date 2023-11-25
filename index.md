@@ -3,7 +3,7 @@ layout: default
 title: Chandramohan Kumar (CM)
 ---
 
-[About Me](#👨‍💻 about-me) | [Work Experience](# 💼 work-experience) | [Achievements](#achievements) | [Education](#education) | [Skills](#skills) | [Personal Details](#personal-details) | [Connect with Me](#connect-with-me)
+[About Me](#👨‍💻-about-me) | [Work Experience](#💼-work-experience) | [Achievements](#🏆-achievements) | [Education](#🎓-education) | [Skills](#💻-skills) | [Personal Details](#👤-personal-details) | [Connect with Me](#🌐-connect-with-me)
 
 
 ## 👨‍💻 About Me
@@ -168,7 +168,7 @@ title: Chandramohan Kumar (CM)
 </ul>
 
 
-## PERSONAL DETAILS
+## 👤 PERSONAL DETAILS
 <ul style="list-style-type: none; padding: 0; margin: 0; font-family: 'Arial', sans-serif;">
 
   <li style="margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
