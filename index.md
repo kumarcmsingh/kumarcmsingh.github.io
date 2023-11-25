@@ -4,25 +4,15 @@ title: Chandramohan Kumar
 ---
 
 ## 👨‍💻 About Me
-<div style="text-align: justify"> I am Chandramohan Kumar, a Full Stack Developer currently working at Zino Technologies Private Limited in Bangalore since July 2023. With a Master's degree in Computer Applications from RV College of Engineering and a CGPA of 7.73, I bring a strong educational background to my role.
-
-In my current position, I contribute as a Back End Developer, specializing in Golang and the Fiber framework to develop and maintain robust RESTful APIs. At Zino Technologies, I collaborate with a talented team of developers to design and implement scalable solutions, optimizing existing codebases for enhanced efficiency and maintainability. My responsibilities include conducting thorough code reviews, troubleshooting complex issues, and ensuring the seamless integration of backend services with user interfaces.
-
-Prior to Zino Technologies, I gained valuable experience as a Full Stack Developer at 21North Europe Assistance. There, I designed and developed a microservice using the Flask framework in Python for an Ontime-performance report, resulting in a 97% reduction in paperwork. I integrated the RazorpayX payment gateway, streamlining payments and reducing processing time by 96%. Additionally, I created an attendance reporting system for efficient management of 20K+ employees.
-
-One of my notable achievements is the development of a Network Intrusion Detection System, using machine learning, socket programming, and Python. This system detects and mitigates malicious activities within a computer network, enhancing security by 96%.
-
-My technical skills encompass a range of programming languages, including Python, JavaScript, C, and Golang. I am proficient in using development frameworks such as Flask and React, along with expertise in Docker, Git, AWS, MySQL, HTML, and CSS.
-
-Throughout my career, I actively contribute ideas and suggestions in team meetings, ensuring timely updates on deadlines, designs, and enhancements. I am committed to continuous learning, staying abreast of the latest industry trends and technologies to propose innovative solutions.
-
-Overall, my diverse experience, coupled with a creative flair for solving complex problems, positions me as a skilled Full Stack Developer capable of delivering high-quality software solutions that align with business requirements. </div>
+<div style="text-align: justify">
+I am Chandramohan Kumar, a Full Stack Developer at Zino Technologies Private Limited in Bangalore since July 2023. With a Master's degree in Computer Applications from RV College of Engineering (CGPA: 7.73), I bring a strong educational background to my role. As a Back End Developer, I specialize in Golang and the Fiber framework, contributing to the design and maintenance of robust RESTful APIs. Collaborating with a talented team, I optimize codebases for efficiency, conduct thorough code reviews, and ensure seamless integration with user interfaces. Prior experience at 21North Europe Assistance involved developing a microservice for Ontime-performance reporting, integrating RazorpayX, and creating an attendance reporting system. A notable achievement is a Network Intrusion Detection System, enhancing security by 96%. Proficient in Python, JavaScript, C, Golang, Flask, React, Docker, Git, AWS, MySQL, HTML, and CSS, I actively contribute innovative solutions, demonstrating a creative approach to problem-solving. My diverse experience positions me as a skilled Full Stack Developer committed to delivering high-quality software solutions aligned with business requirements.
+ </div>
 
 ## 💼 Work Experience
 
 ### Back End Developer
 **Zino Technologies Private Limited | Jul 2023 - Present | Bangalore, India**
-
+<div style="text-align: justify">
 - Developed and maintained backend systems using Golang and the Fiber framework for RESTful APIs.
 - Worked on Typesense server to store and retrieve information efficiently.
 - Optimized the existing codebase for improved efficiency and maintainability.
@@ -36,11 +26,11 @@ Overall, my diverse experience, coupled with a creative flair for solving comple
 - Implemented robust testing strategies to ensure high-quality software deliverables.
 
 - Stayed updated with the latest industry trends and technologies to propose innovative solutions.
-
+ </div>
 
 ## Full-stack Developer
 **21North Europ Assistance | Oct 2020 - Jul 2023 | Bangalore, India**
-
+<div style="text-align: justify">
 - Developed and maintained high-performance REST APIs using Python 3.x in Flask, FastAPI, and Django Rest Framework.
 - Achieved a significant 40% reduction in API response time through advanced optimization techniques, leading to improved system performance.
 
@@ -74,11 +64,11 @@ Overall, my diverse experience, coupled with a creative flair for solving comple
 - Maintained code quality by conducting code reviews and implementing code refactoring techniques, resulting in improved readability, maintainability, and overall code quality.
 
 - Solid understanding of data structures and algorithms.
-
+ </div>
 
 ### Technical Assistant (Internship)
 **Dvara Solutions | Jan 2020 - Jun 2020 | Bangalore, India**
-
+<div style="text-align: justify">
 - Developed responsive user interfaces during the internship.
 - Implemented state management using Redux or Context API in ReactJS.
 - Integrated RESTful APIs and utilized React Router for client-side routing.
@@ -89,7 +79,8 @@ Overall, my diverse experience, coupled with a creative flair for solving comple
 
 - Collaborated with backend developers to integrate databases with applications.
 - Actively contributed to projects, gaining practical experience, and enhancing skills in ReactJS, Python, and MySQL.
-
+ </div>
+ 
 ## 🏆 Achievements
 
 **ABCD On Spot Award | 21North Europ Assistance**
